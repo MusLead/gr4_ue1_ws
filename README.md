@@ -1,7 +1,3 @@
-Certainly, Sir. Here is the updated and complete `README.md` suitable for a ROS 2 project where **the Git repository *is* the workspace** itself. It includes prerequisite installations, correct build instructions, and clear launching guidance for Task A1.2:
-
----
-
 # 🤖 ROSY Description – Task A1.2
 
 This ROS 2 project enables users to **visualize a robot model described in URDF** using **RViz2** and simulate its joint movements with the help of `joint_state_publisher_gui`.
