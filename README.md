@@ -73,7 +73,7 @@ ros2 pkg create rosy_description
 > Replace `rosy_description` with your desired package name.
 
 source: 
-[Create and Set Up a ROS2 Workspace - ROS2 Tutorial 3](https://youtu.be/3GbrKQ7G2P0?si=4HON8bex9SfdtMYi)
-[ROS2 - How to Publish TFs using URDF and Robot State Publisher](https://youtu.be/V_C8Cmv4fgk?si=esRdjgoOLAfIND1B)
-[Create a URDF with ROS2 (1H Crash Course)](https://youtu.be/dZ_CyyEvBE0?si=rhyr0zifiNgdB4Ja)
+- [Create and Set Up a ROS2 Workspace - ROS2 Tutorial 3](https://youtu.be/3GbrKQ7G2P0?si=4HON8bex9SfdtMYi)
+- [ROS2 - How to Publish TFs using URDF and Robot State Publisher](https://youtu.be/V_C8Cmv4fgk?si=esRdjgoOLAfIND1B)
+- [Create a URDF with ROS2 (1H Crash Course)](https://youtu.be/dZ_CyyEvBE0?si=rhyr0zifiNgdB4Ja)
 
